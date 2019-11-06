@@ -70,7 +70,7 @@ GitHub: https://github.com/Lumm1t/obnoxious.club
             link = $('#marquee').children('a').last();
                 
             if (i != links.length - 1) 
-                $('#marquee').append(' <img class="emoticon" src="assets/icons/sync2.png"> ');
+                $('#marquee').append(' <img class="emoticon" src="assets/icons/sync2"> ');
         }
 
         if (window.mobileAndTabletCheck()) {
