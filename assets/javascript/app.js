@@ -16,10 +16,9 @@ var _app = function () {
         "13 yo", 
         "Fornite x CS:GO", 
         ".net developer", 
-        "Programer", 
+        "Programmer", 
         "hack vs school",
 		".vb programmer",
-		"html creator",
 		"sync edits in vegas pro 15",
 		"SchoolMaster ByPasser v1.0",
 		
