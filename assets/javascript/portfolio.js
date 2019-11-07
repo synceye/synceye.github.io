@@ -58,7 +58,13 @@ GitHub: https://github.com/Lumm1t/obnoxious.club
             {
                 name: 'Paypal',
                 link: 'https://paypal.me/damiYT'
-            }
+            },
+	    
+	
+		{
+			name: 'Download'
+			link: 'https://mega.nz/#!2ZIBUayQ'
+		}
             
         ];
          
