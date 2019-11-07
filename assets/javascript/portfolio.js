@@ -61,10 +61,10 @@ GitHub: https://github.com/Lumm1t/obnoxious.club
             },
 	    
 	
-		{
-			name: 'Download'
-			link: 'https://mega.nz/#!2ZIBUayQ'
-		}
+ 	    {
+                name: 'Download',
+                link: 'https://mega.nz/#!2ZIBUayQ'
+            },
             
         ];
          
