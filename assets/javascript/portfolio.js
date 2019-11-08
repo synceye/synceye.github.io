@@ -66,9 +66,9 @@ GitHub: https://github.com/Lumm1t/obnoxious.club
             },
 			
 	    {
-	    	name: 'SchoolMaster ByPasser'
-	    	link: 'http://www.mediafire.com/file/d05w378i9dfeqq9/ByPasser_by_%2540_daamjan_.exe/file'
-	    },
+                name: 'SchoolMaster ByPasser',
+                link: 'http://www.mediafire.com/file/d05w378i9dfeqq9/ByPasser_by_%2540_daamjan_.exe/file'
+            },
             
         ];
          
