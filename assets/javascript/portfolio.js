@@ -197,7 +197,7 @@ GitHub: https://github.com/Lumm1t/obnoxious.club
 
                     clearCursor();
 
-                    writeLine(["<i style='color: #F62459'>sync.eye#0001</i>"], 120, 500, function () {
+                    writeLine(["<i style='color: #F62459'>sync.eye#9999</i>"], 120, 500, function () {
 
                         timeouts.push(setTimeout(function () {
 
