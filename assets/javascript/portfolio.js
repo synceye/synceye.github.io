@@ -48,7 +48,7 @@ GitHub: https://github.com/Lumm1t/obnoxious.club
             {
                 name: 'Twitter',
                 link: 'https://twitter.com/_daamjan_'
-	    }
+	    },
 
             {
                 name: 'Paypal',
