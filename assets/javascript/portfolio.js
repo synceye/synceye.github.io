@@ -48,23 +48,14 @@ GitHub: https://github.com/Lumm1t/obnoxious.club
             {
                 name: 'Twitter',
                 link: 'https://twitter.com/_daamjan_'
-            },
-                
-            {
-                name: 'WeMade',
-                link: 'https://invite.gg/wemade'
-            },
+	    }
 
             {
                 name: 'Paypal',
                 link: 'https://paypal.me/damiYT'
             },
-	    
- 	    {
-                name: 'WeMade Launcher',
-                link: 'https://mega.nz/#!2ZIBUayQ'
-            },
-			
+	  	
+		
 	    {
                 name: 'SchoolMaster ByPasser',
                 link: 'https://smbypasser.gq'
