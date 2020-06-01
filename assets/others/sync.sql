@@ -8,12 +8,13 @@ USE `es_extended`;
 
 CREATE TABLE `users` (
 	`identifier` VARCHAR(40) NOT NULL,
+	`accounts` LONGTEXT NULL DEFAULT NULL,
 	`group` VARCHAR(50) NULL DEFAULT 'user',
-	`job` VARCHAR(20) NULL DEFAULT 'unemployed',
-	`job_grade` INT(11) NULL DEFAULT 0,
 	`inventory` LONGTEXT NULL DEFAULT NULL,
+	`job` VARCHAR(20) NULL DEFAULT 'unemployed',
+	`job_grade` INT NULL DEFAULT 0,
 	`loadout` LONGTEXT NULL DEFAULT NULL,
-	`position` VARCHAR(53) NULL DEFAULT '{"x":-269.4,"y":-955.3,"z":31.2,"heading":205.8}',
+	`position` VARCHAR(255) NULL DEFAULT '{"x":-269.4,"y":-955.3,"z":31.2,"heading":205.8}',
 
 	PRIMARY KEY (`identifier`)
 );
