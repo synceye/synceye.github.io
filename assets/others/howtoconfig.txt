@@ -10,5 +10,7 @@ a) Your server won't start when you press start.bat
 b) I have 2 huds when I install trew hud
 	Go to C:\esx-sync-server\cfx-server-data-master\resources\[esx]\ex_extended\config.lua
 	And change Config.Enablehud to false
+	
+More on: https://synceye.gitbook.io/sync-installer
 
 Please report other issues!
