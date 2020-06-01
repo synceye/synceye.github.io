@@ -1,0 +1,14 @@
+HOW TO COFIGURE THE SERVER:
+1) Put license key and steam webapi key in server.cfg
+2) Import es_extended.sql in your database
+3) Start the server and have fun!
+
+COMMON ISSUES:
+a) Your server won't start when you press start.bat
+	Try editing it with another path.
+
+b) I have 2 huds when I install trew hud
+	Go to C:\esx-sync-server\cfx-server-data-master\resources\[esx]\ex_extended\config.lua
+	And change Config.Enablehud to false
+
+Please report other issues!
