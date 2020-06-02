@@ -539,17 +539,6 @@ CREATE TABLE `vehicle_sold` (
 	PRIMARY KEY (`plate`)
 );
 
-CREATE TABLE `owned_vehicles` (
-	`owner` varchar(40) NOT NULL,
-	`plate` varchar(12) NOT NULL,
-	`vehicle` longtext,
-	`type` VARCHAR(20) NOT NULL DEFAULT 'car',
-	`job` VARCHAR(20) NULL DEFAULT NULL,
-	`stored` TINYINT NOT NULL DEFAULT '0',
-
-	PRIMARY KEY (`plate`)
-);
-
 CREATE TABLE `rented_vehicles` (
 	`vehicle` varchar(60) NOT NULL,
 	`plate` varchar(12) NOT NULL,
