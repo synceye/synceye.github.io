@@ -19,8 +19,6 @@ CREATE TABLE `users` (
 	PRIMARY KEY (`identifier`)
 );
 
-ALTER TABLE `users` ADD COLUMN `skin` varchar(255) DEFAULT NULL;
-
 CREATE TABLE `items` (
 	`name` VARCHAR(50) NOT NULL,
 	`label` VARCHAR(50) NOT NULL,
@@ -992,3 +990,5 @@ CREATE TABLE IF NOT EXISTS `owned_vehicles` (
 	
 	PRIMARY KEY (`plate`)
 );
+
+ALTER TABLE `users` ADD COLUMN `skin` varchar(255) DEFAULT NULL;
