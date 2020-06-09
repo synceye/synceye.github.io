@@ -991,4 +991,4 @@ CREATE TABLE IF NOT EXISTS `owned_vehicles` (
 	PRIMARY KEY (`plate`)
 );
 
-ALTER TABLE `users` ADD COLUMN `skin` varchar(255) DEFAULT NULL;
+ALTER TABLE `users` ADD COLUMN `skin` longtext DEFAULT NULL;
