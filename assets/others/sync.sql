@@ -421,8 +421,15 @@ CREATE TABLE `weashops` (
 	PRIMARY KEY (`id`)
 );
 
+INSERT INTO `datastore` (name, label, shared) VALUES
+	('user_ears', 'Ears', 0),
+	('user_glasses', 'Glasses', 0),
+	('user_helmet', 'Helmet', 0),
+	('user_mask', 'Mask', 0)
+;
+
 INSERT INTO `licenses` (`type`, `label`) VALUES
-	('weapon', "Permis de port d'arme")
+	('weapon', "Gun license")
 ;
 
 INSERT INTO `weashops` (`zone`, `item`, `price`) VALUES
