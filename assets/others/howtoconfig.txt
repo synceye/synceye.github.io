@@ -1,5 +1,9 @@
 HOW TO COFIGURE THE SERVER:
-1) Put license key and steam webapi key in server.cfg
+1) Put license key and steam webapi key and set ur self as an admin in server.cfg
+	1a) To get license key go to: https://keymaster.fivem.net/ and generate the key
+	1b) If you didn't spend 5 dollars on STEAM, you CAN'T set the api key, so YOU DONT NEED IT
+	1c) FOLLOW THIS STEP IF YOU SPENT 5 DOLLARS ON STEAM! To get ur hex id go to: http://vacbanned.com/ and in search bar paste your steam profile link and you will see 			there few rows, search for row where are 2 types of lines with numbers and letters, and find where it says HEX, copy that number left of that word and paste it 		in server config in 19th line (replace REPLACEME) with ur hex
+	1d) IF YOU DIDNT SPEND 5 DOLLARS ON STEAM FOLLOW THIS: Put the license key and import the sql to the database, then join the server and create a player, then close fivem             and go to phpmyadmin in table `users`, then you will see the first line with some numbers and letters (exmpl. F7SF8GS7F70ASF78DS8FS), copy that and paste it in 20th             line in server config, and comment the 19th line.
 2) Import es_extended.sql in your database
 3) Start the server and have fun!
 
@@ -14,3 +18,7 @@ b) I have 2 huds when I install trew hud
 More on: https://synceye.gitbook.io/sync-installer
 
 Please report other issues!
+
+\\\\\\\\\\\\\\\\\\\\\\\\\\
+-- Made with <3 by sync --
+//////////////////////////
