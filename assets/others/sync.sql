@@ -234,11 +234,7 @@ INSERT INTO `addon_inventory` (name, label, shared) VALUES
 ;
 
 INSERT INTO `datastore` (name, label, shared) VALUES
-  ('property','Property',0),
-	('user_ears', 'Ears', 0),
-	('user_glasses', 'Glasses', 0),
-	('user_helmet', 'Helmet', 0),
-	('user_mask', 'Mask', 0)
+  ('property','Property',0)
 ;
 
 CREATE TABLE `owned_properties` (
@@ -337,7 +333,7 @@ INSERT INTO `items` (`name`, `label`, `weight`) VALUES
 	('essence', 'Essence', 1),
 	('wool', 'Laine', 1),
 	('fabric', 'Tissu', 1),
-	('clothe', 'Vêtement', 1),
+	('clothe', 'Vêtement', 1)
 ;
 
 INSERT INTO `items` (`name`, `label`, `weight`, `rare`, `can_remove`) VALUES
