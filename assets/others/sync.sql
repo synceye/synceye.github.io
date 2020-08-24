@@ -489,8 +489,6 @@ INSERT INTO `weashops` (`zone`, `item`, `price`) VALUES
 	('BlackWeashop', 'WEAPON_STICKYBOMB', 500)
 ;
 
-USE `es_extended`;
-
 INSERT INTO `addon_account` (name, label, shared) VALUES
 	('society_cardealer','Concessionnaire',1)
 ;
@@ -811,8 +809,6 @@ INSERT INTO `vehicles` (name, model, price, category) VALUES
 	('Sentinel3', 'sentinel3', 650000, 'sports'),
 	('Hustler', 'hustler', 625000, 'muscle')
 ;
-
-USE `es_extended`;
 
 ALTER TABLE `users` ADD COLUMN `status` LONGTEXT NULL;
 
