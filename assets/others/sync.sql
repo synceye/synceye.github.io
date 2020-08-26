@@ -71,6 +71,23 @@ CREATE TABLE `society_moneywash` (
 	PRIMARY KEY (`id`)
 );
 
+CREATE TABLE IF NOT EXISTS `glovebox_inventory` (
+  `id` int(11) NOT NULL AUTO_INCREMENT,
+  `plate` varchar(8) NOT NULL,
+  `data` text NOT NULL,
+  `owned` int(11) NOT NULL,
+  PRIMARY KEY (`id`),
+  UNIQUE KEY `plate` (`plate`)
+);
+
+CREATE TABLE IF NOT EXISTS `trunk_inventory` (
+  `id` int(11) NOT NULL AUTO_INCREMENT,
+  `plate` varchar(8) NOT NULL,
+  `data` text NOT NULL,
+  `owned` int(11) NOT NULL,
+  PRIMARY KEY (`id`),
+  UNIQUE KEY `plate` (`plate`)
+);
 
 CREATE TABLE `shops` (
 	`id` int NOT NULL AUTO_INCREMENT,
