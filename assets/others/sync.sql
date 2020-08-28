@@ -296,7 +296,8 @@ INSERT INTO `jobs` (name, label) VALUES
 
 INSERT INTO `items` (`name`, `label`, `weight`) VALUES
 	('bread', 'Bread', 1),
-	('water', 'Water', 1)
+	('water', 'Water', 1),
+	('blindfold', 'Blindfold', 1)
 ;
 
 CREATE TABLE `billing` (
