@@ -515,7 +515,7 @@ INSERT INTO `addon_inventory` (name, label, shared) VALUES
 	('society_cardealer','Autosalon',1)
 ;
 
-INSERT INTO `jobs` (name, label) VALUES
+INSERT INTO `jobs` (name, label, whitelisted) VALUES
 	('cardealer','Autosalon', 1)
 ;
 
