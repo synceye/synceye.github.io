@@ -514,8 +514,7 @@ INSERT INTO `addon_account` (name, label, shared) VALUES
 INSERT INTO `addon_inventory` (name, label, shared) VALUES
 	('society_cardealer','Concesionnaire',1)
 ;
-
-INSERT INTO `jobs` (name, label) VALUES
+INSERT INTO `jobs` (name, label, whitelisted) VALUES
 	('cardealer','Concessionnaire', 1)
 ;
 
