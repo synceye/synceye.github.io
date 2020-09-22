@@ -104,7 +104,10 @@ INSERT INTO `shops` (store, item, price) VALUES
 	('RobsLiquor','bread',30),
 	('RobsLiquor','water',15),
 	('LTDgasoline','bread',30),
-	('LTDgasoline','water',15)
+	('LTDgasoline','water',15),
+	('TwentyFourSeven','fixtool',1500),
+	('RobsLiquor','fixtool',1500),
+	('LTDgasoline','fixtool',1500),
 ;
 
 ALTER TABLE `users` ADD COLUMN `phone_number` VARCHAR(10) NULL;
@@ -357,6 +360,7 @@ INSERT INTO `items` (`name`, `label`, `weight`) VALUES
 INSERT INTO `items` (`name`, `label`, `weight`, `rare`, `can_remove`) VALUES
 	('cannabis', 'Cannabis', 1, 0, 1),
 	('marijuana', 'Marijuana', 0.5, 0, 1),
+	('fixtool', 'Repair kit', 5, 0, 1),
 	('chemicals', 'Chemicals', 0.5, 0, 1),
 	('chemicalslisence', 'Chemicals license', 0, 0, 1),
 	('moneywash', 'MoneyWash License', 0, 0, 1),
