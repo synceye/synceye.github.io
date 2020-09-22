@@ -107,7 +107,7 @@ INSERT INTO `shops` (store, item, price) VALUES
 	('LTDgasoline','water',15),
 	('TwentyFourSeven','fixtool',1500),
 	('RobsLiquor','fixtool',1500),
-	('LTDgasoline','fixtool',1500),
+	('LTDgasoline','fixtool',1500)
 ;
 
 ALTER TABLE `users` ADD COLUMN `phone_number` VARCHAR(10) NULL;
