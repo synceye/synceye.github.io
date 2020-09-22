@@ -967,7 +967,6 @@ INSERT INTO `job_grades` (job_name, grade, name, label, salary, skin_male, skin_
 
 INSERT INTO `items` (name, label, weight) VALUES
 	('gazbottle', 'Gaz bottle', 2),
-	('fixtool', 'Fixtool', 2),
 	('carotool', 'Caro tool', 2),
 	('blowpipe', 'Blowpipe', 2),
 	('fixkit', 'Repair kit', 3),
