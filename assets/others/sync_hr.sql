@@ -337,7 +337,7 @@ ALTER TABLE `users`
 
 INSERT INTO `items` (`name`, `label`, `weight`) VALUES
 	('alive_chicken', 'Živa kokoš', 1),
-	('fixtool', 'Kit za popravku auta', 5, 0, 1),
+	('fixtool', 'Kit za popravku auta', 5),
 	('slaughtered_chicken', 'Ubijena kokoš', 1),
 	('packaged_chicken', 'Pakirana kokoš', 1),
 	('fish', 'Riba', 1),
