@@ -300,6 +300,7 @@ INSERT INTO `jobs` (name, label) VALUES
 INSERT INTO `items` (`name`, `label`, `weight`) VALUES
 	('bread', 'Bread', 1),
 	('water', 'Water', 1),
+	('jewels', 'Jewels', 1),
 	('blindfold', 'Blindfold', 1)
 ;
 
