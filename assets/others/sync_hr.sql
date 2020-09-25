@@ -299,6 +299,7 @@ INSERT INTO `jobs` (name, label) VALUES
 
 INSERT INTO `items` (`name`, `label`, `weight`) VALUES
 	('bread', 'Kruh', 1),
+	('jewels', 'Dragulji', 1),
 	('water', 'Voda', 1),
 	('blindfold', 'Vreća', 1)
 ;
