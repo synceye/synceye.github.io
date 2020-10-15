@@ -577,7 +577,8 @@ INSERT INTO `vehicle_categories` (name, label) VALUES
 	('offroad','Off Road'),
 	('suvs','SUVs'),
 	('vans','Vans'),
-	('motorcycles','Motos')
+	('motorcycles','Motos'),
+	('addon', "Addon")
 ;
 
 CREATE TABLE `vehicles` (
@@ -829,7 +830,17 @@ INSERT INTO `vehicles` (name, model, price, category) VALUES
 	('Neon', 'neon', 1500000, 'sports'),
 	('Revolter', 'revolter', 1610000, 'sports'),
 	('Sentinel3', 'sentinel3', 650000, 'sports'),
-	('Hustler', 'hustler', 625000, 'muscle')
+	('Hustler', 'hustler', 625000, 'muscle'),
+	('508gtline','blade',15000,'addon'),
+	('Mercedes AMG GT','amggt',18000,'addon'),
+	('Expmax 20','expmax20',24000,'addon'),
+	('Mercedes G Class','g65amg',200000,'addon'),
+	('MBBS20','mbbs20',190000,'addon'),
+	('Audi R8','r8ppi',150000,'addon'),
+	('Tesla X','teslax',250000,'addon'),
+	('Lamborghini Urus','urus2018',300000,'addon'),
+	('Volkswagen Touareg','urus2018',125000,'addon'),
+	('Chevrolet Cammaro','zl12017',90000,'addon')
 ;
 
 ALTER TABLE `users` ADD COLUMN `status` LONGTEXT NULL;
