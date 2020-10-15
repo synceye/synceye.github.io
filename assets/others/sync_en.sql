@@ -831,7 +831,7 @@ INSERT INTO `vehicles` (name, model, price, category) VALUES
 	('Revolter', 'revolter', 1610000, 'sports'),
 	('Sentinel3', 'sentinel3', 650000, 'sports'),
 	('Hustler', 'hustler', 625000, 'muscle'),
-	('508gtline','blade',15000,'addon'),
+	('Pegueot 508 gt','508gtline',15000,'addon'),
 	('Mercedes AMG GT','amggt',18000,'addon'),
 	('Expmax 20','expmax20',24000,'addon'),
 	('Mercedes G Class','g65amg',200000,'addon'),
