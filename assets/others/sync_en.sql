@@ -1023,38 +1023,6 @@ ALTER TABLE `users`
 	ADD `is_dead` TINYINT(1) NULL DEFAULT '0'
 ;
 
-INSERT INTO `addon_account` (name, label, shared) VALUES
-	('society_mafia', 'mafia', 1)
-;
-
-INSERT INTO `datastore` (name, label, shared) VALUES
-	('society_mafia', 'mafia', 1)
-;
-
-INSERT INTO `addon_inventory` (name, label, shared) VALUES
-	('society_mafia', 'mafia', 1)
-;
-
-INSERT INTO `jobs` (name, label, whitelisted) VALUES
-	('mafia','Mafia', 1)
-;
-
-INSERT INTO `job_grades` (job_name, grade, name, label, salary, skin_male, skin_female) VALUES
-	('mafia',0,'recruta','Dealer',20,'{}','{}'),
-	('mafia',1,'soldado','Killer',40,'{}','{}'),
-	('mafia',2,'gerente','Hitman',60,'{}','{}'),
-	('mafia',3,'boss','Boss',85,'{}','{}')
-;
-
-CREATE TABLE `fine_types_mafia` (
-	`id` int(11) NOT NULL AUTO_INCREMENT,
-	`label` varchar(255) DEFAULT NULL,
-	`amount` int(11) DEFAULT NULL,
-	`category` int(11) DEFAULT NULL,
-
-	PRIMARY KEY (`id`)
-);
-
 CREATE TABLE IF NOT EXISTS `owned_vehicles` (
 	`owner` varchar(40) NOT NULL,
 	`plate` varchar(12) NOT NULL,
