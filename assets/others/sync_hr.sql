@@ -840,7 +840,7 @@ INSERT INTO `vehicles` (name, model, price, category) VALUES
 	('Audi R8','r8ppi',150000,'addon'),
 	('Tesla X','teslax',250000,'addon'),
 	('Lamborghini Urus','urus2018',300000,'addon'),
-	('Volkswagen Touareg','urus2018',125000,'addon'),
+	('Volkswagen Touareg','vwtoua19c',125000,'addon'),
 	('Chevrolet Cammaro','zl12017',90000,'addon')
 ;
 
