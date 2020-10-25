@@ -831,17 +831,7 @@ INSERT INTO `vehicles` (name, model, price, category) VALUES
 	('Neon', 'neon', 1500000, 'sports'),
 	('Revolter', 'revolter', 1610000, 'sports'),
 	('Sentinel3', 'sentinel3', 650000, 'sports'),
-	('Hustler', 'hustler', 625000, 'muscle'),
-	('Peugeot 508 gt','508gtline',15000,'addon'),
-	('Mercedes AMG GT','amggt',18000,'addon'),
-	('Expmax 20','expmax20',24000,'addon'),
-	('Mercedes G Class','g65amg',200000,'addon'),
-	('MBBS20','mbbs20',190000,'addon'),
-	('Audi R8','r8ppi',150000,'addon'),
-	('Tesla X','teslax',250000,'addon'),
-	('Lamborghini Urus','urus2018',300000,'addon'),
-	('Volkswagen Touareg','vwtoua19c',125000,'addon'),
-	('Chevrolet Cammaro','zl12017',90000,'addon')
+	('Hustler', 'hustler', 625000, 'muscle')
 ;
 
 ALTER TABLE `users` ADD COLUMN `status` LONGTEXT NULL;
@@ -1054,3 +1044,13 @@ COMMIT;
 ALTER TABLE `owned_vehicles` ADD `state` BOOLEAN NOT NULL DEFAULT FALSE COMMENT 'State of the vehicle' AFTER `owner`;
 
 ALTER TABLE `users` ADD COLUMN `skin` LONGTEXT DEFAULT NULL;
+
+
+
+
+
+
+
+
+
+
