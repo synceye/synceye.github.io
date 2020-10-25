@@ -578,8 +578,7 @@ INSERT INTO `vehicle_categories` (name, label) VALUES
 	('offroad','Off Road'),
 	('suvs','SUVs'),
 	('vans','Vans'),
-	('motorcycles','Motos'),
-	('addon', 'Addon')
+	('motorcycles','Motos')
 ;
 
 CREATE TABLE `vehicles` (
