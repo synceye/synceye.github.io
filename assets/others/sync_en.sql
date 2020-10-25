@@ -513,12 +513,13 @@ INSERT INTO `weashops` (`zone`, `item`, `price`) VALUES
 ;
 
 INSERT INTO `addon_account` (name, label, shared) VALUES
-	('society_cardealer','Concessionnaire',1)
+	('society_cardealer','Concessionnaire', 1)
 ;
 
 INSERT INTO `addon_inventory` (name, label, shared) VALUES
-	('society_cardealer','Concesionnaire',1)
+	('society_cardealer','Concesionnaire', 1)
 ;
+
 INSERT INTO `jobs` (name, label, whitelisted) VALUES
 	('cardealer','Concessionnaire', 1)
 ;
@@ -577,8 +578,7 @@ INSERT INTO `vehicle_categories` (name, label) VALUES
 	('offroad','Off Road'),
 	('suvs','SUVs'),
 	('vans','Vans'),
-	('motorcycles','Motos'),
-	('addon', "Addon")
+	('motorcycles','Motos')
 ;
 
 CREATE TABLE `vehicles` (
