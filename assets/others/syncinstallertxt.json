@@ -1,5 +1,5 @@
 {
-    "artifakt": "https://runtime.fivem.net/artifacts/fivem/build_server_windows/master/2967-2b71645c6a0aa659e8df6ac34a3a1e487e95aedb/server.zip" , 
+    "artifakt": "https://runtime.fivem.net/artifacts/fivem/build_server_windows/master/3184-6123f9196eb8cd2a987a1dd7ff7b36907a787962/server.zip" , 
     "tejst": "sync installer v3.1 is working", 
     "novo": "Sync Installer v3.1\n -Auto artifact update,\n -Added a carpack + sql,\n -Added qalle coords,\n -Added fixui script,\n -Added esx_voice if you don't have trew hud,\n -Added new menu design,\n -Added xampp install option,\n -Added images for weapons and items,\n -Added Auto updater for v3.1 and future,\n -Added loading screen (it sucks but idgaf),\n -Added a Logo,\n -Added esx_vehiclelock,\n -Added shop and jewerly robbery,\n -Optimized a program as hell and a new (litte) rewoked design,\n -[Backend] -Added API calls for a lot of stuff and discord logs,", 
     "version":"3.1",
