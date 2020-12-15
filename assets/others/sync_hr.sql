@@ -303,7 +303,13 @@ INSERT INTO `items` (`name`, `label`, `weight`) VALUES
 	('water', 'Voda', 1),
 	('blindfold', 'Vreća', 1),
 	('id_card_f', 'Loša id kartica', 1),
-    	('secure_card', 'Sigurna id kartica', 1)
+    	('secure_card', 'Sigurna id kartica', 1),
+	('id_card', 'ID kartica', 1),
+    	('thermal_charge', 'Termalna bomba', 1),
+    	('laptop_h', 'Hakerski laptop', 1),
+    	('lockpick', 'Obijac', 1),
+    	('gold_bar', 'Poluga zlata', 2),
+    	('dia_box', 'Kutija dijamanata', 2)
 ;
 
 CREATE TABLE `billing` (
