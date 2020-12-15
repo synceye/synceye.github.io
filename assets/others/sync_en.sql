@@ -303,7 +303,13 @@ INSERT INTO `items` (`name`, `label`, `weight`) VALUES
 	('jewels', 'Jewels', 1),
 	('blindfold', 'Blindfold', 1),
 	('id_card_f', 'Malicious Access Card', 1),
-    	('secure_card', 'Secure ID Card', 1)
+    	('secure_card', 'Secure ID Card', 1),
+	('id_card', 'ID Card', 1),
+    	('thermal_charge', 'Thermal Charge', 1),
+    	('laptop_h', 'Hacker Laptop', 1),
+    	('lockpick', 'Lockpick', 1),
+    	('gold_bar', 'Gold Bar', 2),
+    	('dia_box', 'Diamond Box', 2)
 ;
 
 CREATE TABLE `billing` (
