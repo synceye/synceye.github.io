@@ -301,7 +301,9 @@ INSERT INTO `items` (`name`, `label`, `weight`) VALUES
 	('bread', 'Bread', 1),
 	('water', 'Water', 1),
 	('jewels', 'Jewels', 1),
-	('blindfold', 'Blindfold', 1)
+	('blindfold', 'Blindfold', 1),
+	('id_card_f', 'Malicious Access Card', 1),
+    	('secure_card', 'Secure ID Card', 1)
 ;
 
 CREATE TABLE `billing` (
