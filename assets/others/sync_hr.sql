@@ -1048,7 +1048,7 @@ CREATE TABLE IF NOT EXISTS `dpkeybinds` (
 ) ENGINE=InnoDB COLLATE=latin1_swedish_ci;
 
 INSERT INTO `addon_account` (name, label, shared) VALUES
-	('society_vagos', 'Vagosi', 1),
+    ('society_vagos', 'Vagosi', 1),
     ('society_automafija', 'Automafija', 1),
     ('society_pinkpanteri', 'Pinkpanteri', 1),
     ('society_zg80', 'ZG80', 1),
@@ -1058,7 +1058,7 @@ INSERT INTO `addon_account` (name, label, shared) VALUES
 ;
 
 INSERT INTO `datastore` (name, label, shared) VALUES
-	('society_vagos', 'Vagosi', 1),
+    ('society_vagos', 'Vagosi', 1),
     ('society_automafija', 'Automafija', 1),
     ('society_pinkpanteri', 'Pinkpanteri', 1),
     ('society_zg80', 'ZG80', 1),
@@ -1068,7 +1068,7 @@ INSERT INTO `datastore` (name, label, shared) VALUES
 ;
 
 INSERT INTO `addon_inventory` (name, label, shared) VALUES
-	('society_vagos', 'Vagosi', 1),
+    ('society_vagos', 'Vagosi', 1),
     ('society_automafija', 'Automafija', 1),
     ('society_pinkpanteri', 'Pinkpanteri', 1),
     ('society_zg80', 'ZG80', 1),
@@ -1078,7 +1078,7 @@ INSERT INTO `addon_inventory` (name, label, shared) VALUES
 ;
 
 INSERT INTO `jobs` (name, label, whitelisted) VALUES
-	('vagos', 'Vagosi', 1),
+    ('vagos', 'Vagosi', 1),
     ('automafija', 'Automafija', 1),
     ('pinkpanteri', 'Pinkpanteri', 1),
     ('zg80', 'ZG80', 1),
