@@ -44,22 +44,21 @@ GitHub: https://github.com/Lumm1t/obnoxious.club
                 name: 'Insta',
                 link: 'https://instagram.com/_daamjan_'
             },
-                
-            {
-                name: 'Twitter',
-                link: 'https://twitter.com/_daamjan_'
-	    },
-
+            
             {
                 name: 'Paypal',
                 link: 'https://paypal.me/damiYT'
             },
-	  	
 		
 	    {
-                name: 'SchoolMaster ByPasser',
-                link: 'https://smbypasser.gq'
+                name: 'Syncinstaller',
+                link: ''
             },
+	    
+	    {
+		name: 'Pola pola'.
+		link: 'https://www.youtube.com/watch?v=2s4mP4ZMKdc'
+	    }
             
         ];
          
