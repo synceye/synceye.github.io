@@ -13,37 +13,14 @@ var _app = function () {
     this.shouldIgnoreVideo = false;
     this.effects = ["bounce", "flash", "pulse", "rubberBand", "shake", "swing", "tada", "wobble", "jello"];
     this.brandDescription = [
-        "13 yo",  
+        "14 yo",  
         ".net developer", 
-        "Programmer", 
-        "hack vs school",
-	"sync edits in vegas pro 16",
-	"SchoolMaster ByPasser v1.0",
-	"13 yo", 
-        ".net developer", 
-        "Programmer", 
-        "hack vs school",
-	"sync edits in vegas pro 16",
-	"SchoolMaster ByPasser v1.0",
-	"13 yo", 
-        "Fornite x CS:GO", 
-        ".net developer", 
-        "Programmer", 
-        "hack vs school",
-	"sync edits in vegas pro 16",
-	"SchoolMaster ByPasser v1.0",
-        "13 yo", 
-        ".net developer", 
-        "Programmer", 
-        "hack vs school",
-	"sync edits in vegas pro 16",
-	"SchoolMaster ByPasser v1.0",
-		
+        "Programmer"
     ];
 
     this.titleChanger = function (text, delay) {
         text = text ||
-            ['@_daamjan_', 'sync.web', 'Song name: Klinac x Bogi - Lucifer'];
+            ['@daamjan1', 'sync.web', '.net dev'];
         delay = delay || 2000;
 
         var counter = 0;
