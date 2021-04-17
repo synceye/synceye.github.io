@@ -53,13 +53,7 @@ GitHub: https://github.com/Lumm1t/obnoxious.club
 	    {
                 name: 'Syncinstaller',
                 link: ''
-            },
-	    
-	    {
-		name: 'Pola pola'.
-		link: 'https://www.youtube.com/watch?v=2s4mP4ZMKdc'
-	    }
-            
+            }            
         ];
          
         for (var i in links) {
