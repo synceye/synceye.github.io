@@ -1,12 +1,7 @@
 {
-    "esx":{
+    "esx":[{
         "es_extended":{
             "link":"https://youtube.com"
         }
-    },
-    "non-esx":{
-        "korkskripte":{
-            "link":"kastm.com"
-        }
-    }
+    }]
 }
