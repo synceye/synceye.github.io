@@ -1,12 +1,12 @@
 {
     "esx": [
       {
-        "name": "es_extended",
+        "name": "esextended",
         "link":"kastmcom"
 
       },
       {
-        "name": "esxidentity",
+        "name": "esxiden_tity",
         "link": "kastmcccom"
       }
     ]
