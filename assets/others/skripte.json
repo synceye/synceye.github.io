@@ -1,13 +1,11 @@
 {
-    "skripte":{
-        "esx":{
-            "es_extended":{
-                "name":"es_extended",
-                "link":""
+    "esx":{
+        "es_extended":{
+            "name":"es_extended",
+            "link":""
             }
         },
         "non-esx":{
 
         }
-    }
 }
