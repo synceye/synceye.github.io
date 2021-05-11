@@ -1,13 +1,6 @@
 {
-    "esx": [
-      {
-        "name": "es_extended",
-        "link":"kastmcom"
-
-      },
-      {
-        "name": "esx_identity",
-        "link": "kastmcccom"
-      }
-    ]
+	"imeGITHUBA": {
+		"type": "mainilimaster",
+		"scripts": ["skripta1", "skripta2"]
+	}
 }
