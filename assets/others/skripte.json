@@ -1,12 +1,14 @@
 {
-	"scripts":{
-    "esx_robbery":[
-      "losdd.com",
-      false
-    ],
-    "es_essentuialmode":[
-      "korak.com",
-      true
-    ]
-	}
+ "scripts":[
+    {
+      "name":"korakinstaler",
+      "link":"losdd.com",
+      "translate?":false
+    },
+    {
+      "name":"kokjjj",
+      "link":"korak.com",
+      "translate?":true
+    }
+  ]
 }
