@@ -1,9 +1,8 @@
 {
 	"scripts":{
-		{
-			"link":"https://github.com/esx-community/esx_realweapons/archive/refs/heads/master.zip",
-			"name":"esx_realweapons",
-			"translate":true
-		}
+    		"esx_robbery":{
+      			"link":"losdd.com",
+     			"translate":false
+   		}
 	}
 }
