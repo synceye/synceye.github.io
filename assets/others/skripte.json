@@ -1,14 +1,16 @@
 {
  "scripts":[
     {
-      "name":"korakinstaler",
-      "link":"losdd.com",
-      "translate?":false
+      "name":"es_extended",
+      "link":"github.com/esx/es_extended",
+      "translate?":true,
+      "master?":true
     },
     {
-      "name":"kokjjj",
-      "link":"korak.com",
-      "translate?":true
+      "name":"esx_comserv",
+      "link":"gizhuv.ccom/esx_comiunioty",
+      "translate?":false,
+      "master?":false
     }
   ]
 }
