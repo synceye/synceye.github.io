@@ -1,8 +1,8 @@
 {
 	"scripts":{
-		"esx_realweapons":{
+		{
 			"link":"https://github.com/esx-community/esx_realweapons/archive/refs/heads/master.zip",
-			"editedname":"esx_realweapons",
+			"name":"esx_realweapons",
 			"translate":true
 		}
 	}
