@@ -3,11 +3,9 @@
 		"translatescripts":{
 			"esx_realweapons":{
 				"link":"https://github.com/esx-community/esx_realweapons/archive/refs/heads/master.zip",
-				"editedname":"esx_realweapons"
+				"editedname":"esx_realweapons",
+				"translate":true
 			}
-		},
-		"non-translated":{
-			""
 		}
 	}
 }
