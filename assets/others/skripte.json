@@ -1,6 +1,13 @@
 {
-	"imeGITHUBA": {
-		"type": "mainilimaster",
-		"scripts": ["skripta1", "skripta2", "kastmeexejexe"]
+	"scripts":{
+		"translatescripts":{
+			"esx_realweapons":{
+				"link":"https://github.com/esx-community/esx_realweapons/archive/refs/heads/master.zip",
+				"editedname":"esx_realweapons"
+			}
+		},
+		"non-translated":{
+			""
+		}
 	}
 }
