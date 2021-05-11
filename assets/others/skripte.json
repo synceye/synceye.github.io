@@ -1,8 +1,12 @@
 {
 	"scripts":{
-    		"esx_robbery":{
-      			"link":"losdd.com",
-     			"translate":false
-   		}
+    "esx_robbery":[
+      "losdd.com",
+      false
+    ],
+    "es_essentuialmode":[
+      "korak.com",
+      true
+    ]
 	}
 }
