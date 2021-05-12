@@ -4,13 +4,11 @@
       "name":"es_extended",
       "link":"github.com/esx/es_extended",
       "translate?":true,
-      "master?":true
     },
     {
       "name":"esx_comserv",
       "link":"gizhuv.ccom/esx_comiunioty",
       "translate?":false,
-      "master?":false
     }
   ]
 }
