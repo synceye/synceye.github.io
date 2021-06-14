@@ -1,16 +1,4 @@
 {
  "scripts":[
-    {
-      "name":"es_extended",
-      "link":"github.com/esx/es_extended",
-      "translate?":true,
-      "type":"esx"
-    },
-    {
-      "name":"esx_comserv",
-      "link":"gizhuv.ccom/esx_comiunioty",
-      "translate?":false,
-      "type":"esx"
-    }
   ]
 }
