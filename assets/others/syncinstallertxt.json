@@ -1,11 +1,12 @@
 {
-    "artifakt": "https://runtime.fivem.net/artifacts/fivem/build_server_windows/master/3539-86d8fe5891dbdc38d43976e6a8afec97215530e8/server.zip" , 
-    "tejst": "sync installer v3.2 is working!", 
+    "artifakt": "https://runtime.fivem.net/artifacts/fivem/build_server_windows/master/3922-d59ca5ee4232a9d636fd71e116f61960e974b29e/server.7z" , 
+    "tejst": "sync installer v3.2 is not working!", 
     "novo3.1": "Sync Installer v3.1\n -Auto artifact update,\n -Added a carpack + sql,\n -Added qalle coords,\n -Added fixui script,\n -Added esx_voice if you don't have trew hud,\n -Added new menu design,\n -Added xampp install option,\n -Added images for weapons and items,\n -Added Auto updater for v3.1 and future,\n -Added loading screen (it sucks but idgaf),\n -Added a Logo,\n -Added esx_vehiclelock,\n -Added shop and jewerly robbery,\n -Optimized a program as hell and a new (litte) rewoked design,\n -[Backend] -Added API calls for a lot of stuff and discord logs,", 
-    "novo": "Sync Installer v3.2\n -Added sync_mafias,\n -Added dpemotes & dpclothing,\n -Fixed many errors,\n -Added EasyAdmin,\n -Removed carpack option due to it not working,\n -Removed esx_shops & added 99kr-shops,\n -Added two systems of bank robbery for all of the banks,\n -Added config option for gcphone to behave as item,\n -Fixed twitter not working on gcphone,\n -Added Error Handlers & Delete Server option in sync installer,\n -Added auto stop script for es resources,\n -Added auto xampp updater,\n -Little tweaks on esx_policejob,\n -Added sync_utils script,\n -Added black market,\n -Added auto start folder & onesync with 48 slots",
+    "novo3.2":"Sync Installer v3.2\n -Added sync_mafias,\n -Added dpemotes & dpclothing,\n -Fixed many errors,\n -Added EasyAdmin,\n -Removed carpack option due to it not working,\n -Removed esx_shops & added 99kr-shops,\n -Added two systems of bank robbery for all of the banks,\n -Added config option for gcphone to behave as item,\n -Fixed twitter not working on gcphone,\n -Added Error Handlers & Delete Server option in sync installer,\n -Added auto stop script for es resources,\n -Added auto xampp updater,\n -Little tweaks on esx_policejob,\n -Added sync_utils script,\n -Added black market,\n -Added auto start folder & onesync with 48 slots", 
+    "novo": "",
     "version":"3.2",
-    "xampplink": "https://sourceforge.net/projects/xampp/files/XAMPP%20Windows/7.4.12/xampp-portable-windows-x64-7.4.12-0-VC15.zip/download",
-    "xampp": "7.4.12",
+    "xampplink": "https://sourceforge.net/projects/xampp/files/XAMPP%20Windows/8.0.7/xampp-portable-windows-x64-8.0.7-0-VS16.zip/download",
+    "xampp": "8.0.7",
     
     "down": true
 }
