@@ -5,6 +5,12 @@
       "link":"https://github.com/esx-framework/esx_cruisecontrol",
       "translate?":false,
       "type":"esx"
+    },
+    {
+     "name":"esx_Shops",
+     "link":"https://github.com/esx-framework/esx_shops",
+     "translate?":false,
+     "type": "esx"
     }
   ]
 }
