@@ -1,4 +1,10 @@
 {
  "scripts":[
+      {
+      "name":"esx_cruisecontrol",
+      "link":"https://github.com/esx-framework/esx_cruisecontrol",
+      "translate?":false,
+      "type":"esx"
+    }
   ]
 }
