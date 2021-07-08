@@ -20,7 +20,7 @@ var _app = function () {
 
     this.titleChanger = function (text, delay) {
         text = text ||
-            ['@daamjan1', 'sync.web', '.net dev'];
+            ['@dvwjvn', 'Sve Ili Nista'];
         delay = delay || 2000;
 
         var counter = 0;
