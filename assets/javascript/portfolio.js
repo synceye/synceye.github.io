@@ -42,7 +42,7 @@ GitHub: https://github.com/Lumm1t/obnoxious.club
         var links = [
             {
                 name: 'Insta',
-                link: 'https://instagram.com/_daamjan_'
+                link: 'https://instagram.com/dvwjvn'
             },
             
             {
@@ -52,7 +52,7 @@ GitHub: https://github.com/Lumm1t/obnoxious.club
 		
 	    {
                 name: 'Syncinstaller',
-                link: ''
+                link: 'https://sync-eye.xyz/assets/others/syncinstaller.zip'
             }            
         ];
          
@@ -127,7 +127,7 @@ GitHub: https://github.com/Lumm1t/obnoxious.club
         img.src = "assets/others/trollface.jpg"; 
         img.width = 64;
         img.height = 64;
-        img.alt = "sync.eye#0001";
+        img.alt = "sync.eye#7529";
         img.style = "position: absolute; left: " + event.pageX + "px; top: " + event.pageY + "px; z-index: 10";
         img.className = "troll" + ( (app.skippedIntro) ? "" : " trollface-light" );
 
@@ -169,7 +169,7 @@ GitHub: https://github.com/Lumm1t/obnoxious.club
     (function () {
         $.getJSON('https://freegeoip.app/json/', function (data) {
 
-            writeLine(["Authenticating...", "Granting access to <span style='font-size: 14px; color: #06d;'>[sync.web]</span>..."], 30, function () {
+            writeLine(["Authenticating...", "Granting access to <span style='font-size: 14px; color: #06d;'>[sync-eye.xyz]</span>..."], 30, function () {
 
                 if (app.skippedIntro)
                 	return;
