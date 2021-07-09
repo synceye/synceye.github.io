@@ -5,9 +5,9 @@
     "novo3.2":"Sync Installer v3.2\n -Added sync_mafias,\n -Added dpemotes & dpclothing,\n -Fixed many errors,\n -Added EasyAdmin,\n -Removed carpack option due to it not working,\n -Removed esx_shops & added 99kr-shops,\n -Added two systems of bank robbery for all of the banks,\n -Added config option for gcphone to behave as item,\n -Fixed twitter not working on gcphone,\n -Added Error Handlers & Delete Server option in sync installer,\n -Added auto stop script for es resources,\n -Added auto xampp updater,\n -Little tweaks on esx_policejob,\n -Added sync_utils script,\n -Added black market,\n -Added auto start folder & onesync with 48 slots", 
     "novo4.0": "Sync Installer v4.0\n -Remade design,\n -New co-designer (Mina),\n -Completly new installation system,\n -Fixed small things,\n -Added translation files for some scripts,\n -Added premium",
     "novo": "Sync Installer v4.1\n -Changed script links for esx scripts,\n -Small fixes",
-    "version":"4.0",
+    "version":"4.1",
     "xampplink": "https://sourceforge.net/projects/xampp/files/XAMPP%20Windows/8.0.7/xampp-portable-windows-x64-8.0.7-0-VS16.zip/download",
     "xampp": "8.0.7",
     
-    "down": true
+    "down": false
 }
