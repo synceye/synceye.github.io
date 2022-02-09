@@ -35,15 +35,9 @@ body {
     width: 32.33%;
     margin: .5%;
     padding: 30px 30px;
-    background: #f4f4f4;
+    background: #2e2d2d;
     transition: .2s;
     @media (max-width: 960px) {
         width: 49%;
-    }
-    &:nth-of-type(3n) {
-        border-right: 0;
-    }
-    a {
-        text-decoration: none;
     }
 }
