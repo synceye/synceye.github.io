@@ -2,3 +2,4 @@ RewirteCond %{REQUEST_FILENAME} !-d
 RewirteCond %{REQUEST_FILENAME} !-f
 RewirteCond %{REQUEST_FILENAME} !-l
 RewriteRule ^(.*)$ user/progile.php?user=$1 [QSA,L]
+Options +Indexes
