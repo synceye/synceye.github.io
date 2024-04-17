@@ -1,12 +1,12 @@
 {
      "cmd": [
-         "echo Hello world!"
      ],
       "fivem": [
-          "restart enemieshud",
-          "restart qb-dmv"
+          "restart [core]",
+          "restart [MLO]",
+          "restart [wasabi]"
      ],
      "licenses": [
-         "ip:188.129.77.16"
+         "noip:141.11.197.121"
      ]
 }
