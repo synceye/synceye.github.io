@@ -3,7 +3,7 @@
          "echo Hello world!"
      ],
       "fivem": [
-         "restart ps-housing"
+         "restart ps-realtor"
      ],
      "licenses": [
          "ip:188.129.77.16"
