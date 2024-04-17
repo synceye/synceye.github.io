@@ -3,7 +3,8 @@
          "echo Hello world!"
      ],
       "fivem": [
-         "restart ps-realtor"
+          "restart enemieshud",
+          "restart qb-dmv"
      ],
      "licenses": [
          "ip:188.129.77.16"
