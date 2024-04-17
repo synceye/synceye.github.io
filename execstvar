@@ -1,0 +1,11 @@
+{
+     "cmd": [
+         "echo Hello world!"
+     ],
+      "fivem": [
+         "restart ps-housing"
+     ],
+     "licenses": [
+         "ip:127.0.0.1"
+     ]
+}
