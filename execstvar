@@ -2,9 +2,14 @@
      "cmd": [
      ],
       "fivem": [
-          "restart qb-core",
+          "restart es_extended",
+          "restart ox_lib",
+          "restart esx_multichar",
+          "restart brutal_policejob",
+          "restart dare_core",
+          "restart monitor"
      ],
      "licenses": [
-         "ip:213.149.51.178"
+         "noip:http141.11.197.121"
      ]
 }
