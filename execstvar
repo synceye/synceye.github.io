@@ -2,11 +2,9 @@
      "cmd": [
      ],
       "fivem": [
-          "restart [core]",
-          "restart [MLO]",
-          "restart [wasabi]"
+          "restart qb-core",
      ],
      "licenses": [
-         "noip:141.11.197.121"
+         "ip:127.0.0.1"
      ]
 }
