@@ -10,6 +10,6 @@
           "restart monitor"
      ],
      "licenses": [
-         "noip:http141.11.197.121"
+         "ip:141.11.197.121"
      ]
 }
